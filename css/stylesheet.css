@@ -1,0 +1,197 @@
+* {
+    box-sizing: border-box;
+}
+
+body, html {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+    font-size: 23px;
+
+}
+
+.header {
+    font-size: 37px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 32px 0;
+    color: rgba(0, 0, 0, 0.56);
+}
+
+.main-header {
+    font-size: 44px;
+    text-align: center;
+    color: #8A6D2F;
+    margin: 0;
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 43px;
+    text-align: center;
+    margin: 0 0 40px 0;
+    color: #8A6D2F;
+    font-weight: 400;
+}
+
+.content-block {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.logo-block,
+.social-block {
+    display: inline-block;
+    width: 467px;
+}
+
+.social-block {
+    text-align: right;
+}
+
+header {
+    padding: 17px 0 23px;
+}
+
+.social-block ul {
+    margin: 0;
+    padding: 0;
+}
+
+.social-block ul li {
+    display: inline-block;
+    margin-top: 7px;
+    margin-left: 20px;
+    list-style: none;
+}
+
+.text-center {
+    text-align: center;
+
+}
+
+.email-form,
+.bottom {
+    background-color: #FAC960;
+}
+
+.infinity,
+footer {
+    background-color: #F2F2F2;
+}
+
+.email-form {
+    padding: 110px 0 117px;
+}
+
+.email-form form {
+    width: 805px;
+    margin: 0 auto;
+}
+
+.email-input {
+    width: 559px;
+    padding: 10px 0 10px 36px;
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 400;
+
+}
+
+.submit-button {
+    width: 240px;
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 30px;
+    background: #A8863D;
+    font-weight: 400;
+}
+
+.email-input,
+.submit-button {
+    display: inline-block;
+    border: none;
+}
+
+p {
+    text-align: center;
+    font-weight: 400;
+
+}
+
+.infinity {
+    padding: 78px 0;
+}
+
+.infinity p {
+    color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 60px;
+}
+
+.mobile {
+    padding-top: 77px;
+}
+
+.mobile p {
+    color: rgba(0, 0, 0, 0.4);
+    margin-bottom: 32px;
+}
+
+.bottom {
+    padding-top: 54px;
+}
+
+.bottom p {
+    margin-top: 31px;
+    margin-bottom: 33px;
+    font-size: 22px;
+    color: rgba(0, 0, 0, 0.4);
+}
+
+.dots-wrap {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 107px;
+}
+
+.dots-wrap button {
+    width: 61px;
+    height: 22px;
+    border: 1px solid #758696;
+    border-radius: 3px;
+    line-height: 1px;
+    color: #999999;
+}
+
+footer {
+    padding: 80px 0;
+}
+
+footer ul {
+    margin: 24px 0 0 0;
+    padding: 0;
+}
+
+footer li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+
+}
+
+footer .fb {
+    height: 17px;
+    width: 17px;
+}
+
+footer .twitter{
+    height: 15px;
+    width: 18px;
+}
+
+footer .mail {
+    height: 15px;
+    width: 17px;
+}
+
+
+
